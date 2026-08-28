@@ -26,7 +26,7 @@ This project studies the logistic map as a chaotic dynamical system, then asks h
 
 ## Headline result
 
-The two constructions behave differently as the state count grows. The orbit-based version gets worse, # because a fixed-length sample is being subdivided ever more finely: it's a sampling problem, not a discretisation one. The exact construction converges properly, tracking the rate expected from Monte Carlo theory. Reporting both separates sampling error from discretisation error, rather than treating "Ulam's method error" as a single undifferentiated quantity.
+The two constructions behave differently as the state count grows. The orbit-based version gets worse, because a fixed-length sample is being subdivided ever more finely: it's a sampling problem, rather than a discretisation one. The exact construction converges properly, tracking the rate expected from Monte Carlo theory. Reporting both separates sampling error from discretisation error, rather than treating "Ulam's method error" as a single undifferentiated quantity.
 
 ## Requirements
 
