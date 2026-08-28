@@ -9,7 +9,7 @@ This project studies the logistic map as a chaotic dynamical system, then asks h
 ## Contents
 
 - `chaos_prob.ipynb`: main notebook, from orbit generation through to convergence analysis
-- LaTeX writeup (PDF): derivations backing the numerical results
+- `logistic_map_writeup.pdf`: derivations backing the numerical results
 
 ## What's in the notebook
 
