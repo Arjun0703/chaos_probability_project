@@ -31,7 +31,7 @@ The two constructions behave differently as the state count grows. The orbit-bas
 ## Requirements
 
 - Python: numpy, matplotlib
-- LaTeX: `pdflatex`, two-pass compilation
+- LaTeX: `pdflatex`
 
 ## Running
 
