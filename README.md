@@ -4,7 +4,7 @@ Deterministic chaos, coarse-grained into a stochastic approximation, with a chec
 
 ## Overview
 
-This project studies the logistic map as a chaotic dynamical system, then asks how well a finite-state Markov chain (via Ulam's method) can approximate it. It connects two areas that may not usually meet: dynamical systems theory # and numerical linear algebra. The throughline is a deterministic system whose Markov-chain approximation converges to a known closed-form stationary distribution.
+This project studies the logistic map as a chaotic dynamical system, then asks how well a finite-state Markov chain (via Ulam's method) can approximate it. It connects two areas that may not usually meet: dynamical systems theory and numerical linear algebra. The throughline is a deterministic system whose Markov-chain approximation converges to a known closed-form stationary distribution.
 
 ## Contents
 
