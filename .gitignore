@@ -1,4 +1,6 @@
-.ipynb_checkpoints/
-__pycache__/
-*.pyc
-.venv/
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+hackathon.zip
